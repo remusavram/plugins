@@ -1,0 +1,9 @@
+Request:
+
+- create a window with PyQt
+
+
+ai 2 obiecte selectate
+pe al doilea trebuie sa il pozitionezi in vertecsii primului obiect 
+pe interfata ai un slider pentru a putea scala al doilea obiect
+si butonul de run
